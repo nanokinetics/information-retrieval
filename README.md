@@ -20,3 +20,13 @@ Practicing and working in the field of information retrieval implicity encompass
 ## Languages
 - Python
 - Scala
+
+## Applications
+
+
+## Outcomes
+- Research Paper
+- Incremental Solution to at least a few engineering problems
+- Teach new members 
+
+## 
